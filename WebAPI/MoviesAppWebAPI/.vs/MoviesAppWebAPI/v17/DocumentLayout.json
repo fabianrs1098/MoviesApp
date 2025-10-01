@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\data\\moviedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:data\\moviedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:controllers\\directorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\data\\directordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:data\\directordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:models\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\moviesappwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:moviesappwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|c:\\fabian ramirez\\moviesapp\\webapi\\moviesappwebapi\\moviesappwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BE2231D-E946-4AAB-AB2F-7A49E6DBC34B}|MoviesAppWebAPI.csproj|solutionrelative:moviesappwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:33:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieData.cs",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Data\\MovieData.cs",
+              "RelativeDocumentMoniker": "Data\\MovieData.cs",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Data\\MovieData.cs",
+              "RelativeToolTip": "Data\\MovieData.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwGMAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:24:20.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAWwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:14:08.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:08:46.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectorController.cs",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Controllers\\DirectorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DirectorController.cs",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Controllers\\DirectorController.cs",
+              "RelativeToolTip": "Controllers\\DirectorController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:47:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectorData.cs",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Data\\DirectorData.cs",
+              "RelativeDocumentMoniker": "Data\\DirectorData.cs",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Data\\DirectorData.cs",
+              "RelativeToolTip": "Data\\DirectorData.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:28:48.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesAppWebAPI.http",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\MoviesAppWebAPI.http",
+              "RelativeDocumentMoniker": "MoviesAppWebAPI.http",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\MoviesAppWebAPI.http",
+              "RelativeToolTip": "MoviesAppWebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-01T03:08:34.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Models\\Director.cs",
+              "RelativeDocumentMoniker": "Models\\Director.cs",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Models\\Director.cs",
+              "RelativeToolTip": "Models\\Director.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA1wBMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:14:25.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T04:20:13.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoviesAppWebAPI",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\MoviesAppWebAPI.csproj",
+              "RelativeDocumentMoniker": "MoviesAppWebAPI.csproj",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\MoviesAppWebAPI.csproj",
+              "RelativeToolTip": "MoviesAppWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T04:12:04.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T03:08:30.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
