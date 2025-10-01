@@ -1,0 +1,47 @@
+
+<div class="mat-elevation-z2" style="width: 30%; padding: 30px; margin: 50px auto; display: flex;justify-content: center;">
+    <form [formGroup]="formMovie">
+
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Nombre</mat-label>
+                <input matInput  formControlName="name">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Lanzamiento</mat-label>
+                <input matInput  formControlName="releaseYear">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Genero</mat-label>
+                <input matInput  formControlName="gender">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Duracion</mat-label>
+                <input matInput  formControlName="duration">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Director</mat-label>
+                <input matInput  formControlName="fkDirector">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <button mat-flat-button color="primary" (click)="save()">Guardar</button>
+            <button mat-flat-button color="primary" (click)="return()" style="margin-left: 10px;">Volver</button>
+        </div>
+
+    </form>
+
+</div>

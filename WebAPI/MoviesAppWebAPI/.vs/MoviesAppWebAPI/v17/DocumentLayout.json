@@ -66,8 +66,7 @@
               "RelativeToolTip": "Controllers\\MovieController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T05:33:33.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T05:33:33.559Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Models\\Movie.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAWwA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T04:14:08.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T04:14:08.166Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T03:08:46.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T03:08:46.986Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "Controllers\\DirectorController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAA5wDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T04:47:06.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T04:47:06.602Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "Data\\DirectorData.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAswIcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T04:28:48.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T04:28:48.09Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "MoviesAppWebAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-01T03:08:34.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T03:08:34.996Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "Models\\Director.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAIA1wBMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T04:14:25.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T04:14:25.796Z"
             },
             {
               "$type": "Document",
@@ -170,21 +163,19 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-01T04:20:13.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T04:20:13.393Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MoviesAppWebAPI",
+              "Title": "MoviesAppWebAPI.csproj",
               "DocumentMoniker": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\MoviesAppWebAPI.csproj",
               "RelativeDocumentMoniker": "MoviesAppWebAPI.csproj",
               "ToolTip": "C:\\Fabian Ramirez\\MoviesApp\\WebAPI\\MoviesAppWebAPI\\MoviesAppWebAPI.csproj",
               "RelativeToolTip": "MoviesAppWebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-01T04:12:04.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T04:12:04.838Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-01T03:08:30.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T03:08:30.411Z"
             }
           ]
         }

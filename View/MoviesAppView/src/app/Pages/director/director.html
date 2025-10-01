@@ -1,0 +1,40 @@
+
+<div class="mat-elevation-z2" style="width: 30%; padding: 30px; margin: 50px auto; display: flex;justify-content: center;">
+    <form [formGroup]="formDirector">
+
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Nombre</mat-label>
+                <input matInput  formControlName="name">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Nacionalidad</mat-label>
+                <input matInput  formControlName="nationality">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Edad</mat-label>
+                <input matInput type="number"  formControlName="age">
+              </mat-form-field>
+        </div>
+        
+        <div class="flex">
+            <mat-form-field>
+                <mat-label>Activo</mat-label>
+                <input matInput  formControlName="active">
+              </mat-form-field>
+        </div>
+
+        <div class="flex">
+            <button mat-flat-button color="primary" (click)="save()">Guardar</button>
+            <button mat-flat-button color="primary" (click)="return()" style="margin-left: 10px;">Volver</button>
+        </div>
+
+    </form>
+
+</div>
